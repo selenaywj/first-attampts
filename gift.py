@@ -291,11 +291,11 @@ t.end_fill()
 
 move_pen_position(0,0)
 t.color('#CD5C5C','white')
-t.write('孙正桥的自画像', font=('Arial',30,'bold'),align='center')
+t.write('xxx的自画像', font=('Arial',30,'bold'),align='center')
 
 t.color('black')
 move_pen_position(250,-220)
-t.write('from帅气逼人的鱼三叔',font=('Arial',20,'bold'),align="center")
+t.write('from selenaywj',font=('Arial',20,'bold'),align="center")
 
 window = t.Screen()
 window.exitonclick()
